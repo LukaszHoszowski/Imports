@@ -1,0 +1,11 @@
+README.rst
+setup.py
+src/demo_reader/__init__.py
+src/demo_reader/__main__.py
+src/demo_reader/multireader.py
+src/demo_reader.egg-info/PKG-INFO
+src/demo_reader.egg-info/SOURCES.txt
+src/demo_reader.egg-info/dependency_links.txt
+src/demo_reader.egg-info/top_level.txt
+src/demo_reader/utils/__init__.py
+src/demo_reader/utils/writer.py
